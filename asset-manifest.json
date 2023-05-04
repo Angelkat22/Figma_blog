@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Figma_blog/static/css/main.50401cfe.css",
-    "main.js": "/Figma_blog/static/js/main.98a548c4.js",
+    "main.js": "/Figma_blog/static/js/main.eb7e330f.js",
+    "static/media/photo.png": "/Figma_blog/static/media/photo.827844632d6f012ee1c2.png",
     "index.html": "/Figma_blog/index.html",
     "main.50401cfe.css.map": "/Figma_blog/static/css/main.50401cfe.css.map",
-    "main.98a548c4.js.map": "/Figma_blog/static/js/main.98a548c4.js.map"
+    "main.eb7e330f.js.map": "/Figma_blog/static/js/main.eb7e330f.js.map"
   },
   "entrypoints": [
     "static/css/main.50401cfe.css",
-    "static/js/main.98a548c4.js"
+    "static/js/main.eb7e330f.js"
   ]
 }
