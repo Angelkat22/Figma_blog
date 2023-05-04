@@ -1,0 +1,56 @@
+.info_page_title {
+    font-size: 34px;
+    font-weight: 700;
+    max-width: 510px;
+    margin-bottom: 30px;
+}
+
+.info_page_list {
+    display: flex;
+    gap: 17px;
+    margin-bottom: 23px;
+}
+
+.info_page_year {
+    font-weight: 900;
+    font-size: 18px;
+    background-color: #FF7C7C;
+    color: #fff;
+    padding: 0 12px;
+    border-radius: 16px;
+    line-height: 32px;
+}
+
+.info_page_tag {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.info_page_text {
+    margin-bottom: 46px;
+}
+
+.info_page_content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.content_img {
+    width: 100%;
+}
+
+.content_head {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.content_little_head{
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.content_text {
+    font-weight: 400;
+    font-size: 16px;
+}

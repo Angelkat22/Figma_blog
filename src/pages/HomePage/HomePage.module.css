@@ -1,0 +1,32 @@
+
+.posts_list {
+	padding: 30px 0;
+    background-color: #EDF7FA;
+}
+
+.posts_list_title,
+.works_list_title {
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.posts_list_nav {
+	color:#00a8cc;
+}
+
+@media (max-width: 800px) {
+	.posts_list_title,
+	.works_list_title {
+		justify-content: center;
+	}
+
+	.works_list_title {
+		padding-bottom: 0;
+	}
+
+	.posts_list_nav {
+		display: none;
+	}
+}
+

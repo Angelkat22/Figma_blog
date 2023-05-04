@@ -1,0 +1,10 @@
+.works_container{
+    margin: 30x 90px;
+} 
+
+.works_list{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
