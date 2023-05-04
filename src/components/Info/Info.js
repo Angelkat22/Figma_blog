@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './Info.module.css'
+import photo from './Images/photo.png'
 
 function Info() {
     return (
@@ -10,7 +11,7 @@ function Info() {
                         <p  className={styles.info_text}> Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
                 </div>
                 <div className={styles.info_photo}>
-                        <img src='/images/photo.png' alt='young man' />
+                        <img src={photo} alt='young man' />
                 </div>
             </div>
             <div className={styles.info_btn}> 

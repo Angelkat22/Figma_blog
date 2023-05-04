@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './ContactPage.module.css'
 import {useForm } from 'react-hook-form'
+import photo from './Images/photo.png'
 
 function ContactPage() {
   let {
@@ -54,7 +55,7 @@ const EnquiryInp = register('enquiry', {
 				<h1 className="page_title">Contact me</h1>
                 <div className={styles.contact_form}>  
                 <div className={styles.contact_me}>
-                  <img src= '/images/photo.png' alt='photo'  />
+                  <img src= {photo} alt='photo'  />
                     <h3>Ask your question...</h3>
                   
                 </div>
